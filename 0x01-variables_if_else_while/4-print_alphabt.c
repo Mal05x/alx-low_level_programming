@@ -6,16 +6,12 @@
  */
 int main(void)
 {
-	char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
-	int j;
-
-	for (j = 0; j < 26; j++)
+	char alphabet;
+	for (alphabet >= 'a'; alphabet <= 'z'; alphabet++)
 	{
-		int i;
-
-		if (i != 5 && i != 17)
+		if (alphabet != 'e' && alphabet != 'q')
 		{
-		putchar(alphabet[j]);
+		putchar(alphabet);
 		}
 	}
 	putchar('\n');
