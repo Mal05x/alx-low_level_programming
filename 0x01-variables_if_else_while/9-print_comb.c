@@ -13,7 +13,6 @@ int main(void)
 	{
 		putchar(num[i]);
 	}
-	putchar(',');
-	putchar('\n');
+	putchar(',' + '\n');
 	return (0);
 }
