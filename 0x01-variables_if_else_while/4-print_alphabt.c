@@ -13,9 +13,10 @@ int main(void)
 	{
 		int i;
 
-		if (i == 5 && i == 17)
-			continue;
+		if (i != 5 && i != 17)
+		{
 		putchar(alphabet[j]);
+		}
 	}
 	putchar('\n');
 	return (0);
