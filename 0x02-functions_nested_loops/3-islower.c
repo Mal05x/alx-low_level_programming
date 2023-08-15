@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_islower - this checks alphabets
+ * _islower - this checks alphabets
  */
 int _islower(int c)
 {
