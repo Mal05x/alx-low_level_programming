@@ -2,6 +2,8 @@
 
 /**
  * _islower - this checks alphabets
+ * Return: 1 if correct
+ *         0 if wrong
  */
 int _islower(int c)
 {
@@ -9,7 +11,7 @@ int _islower(int c)
 		{
 			return (1);
 		}
-		else 
+		else
 		{
 			return (0);
 		}
