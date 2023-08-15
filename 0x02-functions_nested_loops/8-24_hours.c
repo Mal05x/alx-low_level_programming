@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - the main function
- * Return: always 0
+ * jack_bauer - the main function
  */
 void jack_bauer(void)
 {
@@ -19,6 +18,5 @@ void jack_bauer(void)
 			_putchar((j % 10) + '0');
 			_putchar('\n');
 		}
-		return (0);
 	}
 }

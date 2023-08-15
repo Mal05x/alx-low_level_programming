@@ -1,8 +1,7 @@
 #include "main"
 
 /**
- * main - prints the alphabet 10x
- * Return: always 0
+ * print_alphabet_x10 - prints the alphabet 10x
  */
 void print_alphabet_x10(void)
 {
@@ -17,5 +16,4 @@ void print_alphabet_x10(void)
 			_putchar('\n');
 		}
 	}
-	return (0);
 }

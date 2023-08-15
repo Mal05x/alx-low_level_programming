@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - this is the main fuction
- * Return: always 0
+ * _isalpha - this is the main fuction
  */
 int _isalpha(int c)
 {

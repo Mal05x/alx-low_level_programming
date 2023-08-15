@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - the main function
+ * print_sign - the main function
  * Return: 1 if no is > zero,
  * 	   0 if no is = zero,
  * 	   -1 if no is < zero
