@@ -2,17 +2,12 @@
 
 /**
  * _islower - this checks alphabets
- * Return: 1 if correct
- *         0 if wrong
+ * Return: 1 if correct, 0 if wrong
  */
 int _islower(int c)
 {
-		if (c >= 'a' && c <= 'z')
-		{
-			return (1);
-		}
-		else
-		{
-			return (0);
-		}
+	if (c >= 'a' && c <= 'z')
+		return (1);
+	else
+		return (0);
 }
