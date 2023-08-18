@@ -1,7 +1,7 @@
-#include "main.h"
+#include "amin.h"
 
 /**
- * print_most_numbers - the main fuction
+ * print_most_numbers
  */
 void print_most_numbers(void)
 {
@@ -11,7 +11,7 @@ void print_most_numbers(void)
 	{
 		if (i != 2 && i != 4)
 		{
-			_putchar((i % 10)  + '0');
+			_putchar((i % 10) + '0');
 		}
 		_putchar('\n');
 	}
