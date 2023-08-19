@@ -1,7 +1,7 @@
-#include "amin.h"
+#include "main.h"
 
 /**
- * print_most_numbers
+ * print_most_numbers - this is the main function
  */
 void print_most_numbers(void)
 {
