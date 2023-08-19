@@ -2,6 +2,7 @@
 
 /**
  * _isalpha - this is the main fuction
+ * @c: this print alphabets
  * Return: 1 if correct, 0 if wrong
  */
 int _isalpha(int c)

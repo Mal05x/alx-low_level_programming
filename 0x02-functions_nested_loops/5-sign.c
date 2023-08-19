@@ -2,9 +2,8 @@
 
 /**
  * print_sign - the main function
- * Return: 1 if no is > zero,
- * 	   0 if no is = zero,
- * 	   -1 if no is < zero
+ * @n: this is the number
+ * Return: 1 if no is > zero, 0 if no is = zero, -1 if no is < zero
  */
 int print_sign(int n)
 {
