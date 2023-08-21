@@ -3,6 +3,8 @@
 /**
  * *_strcpy - the main function
  * @src: the pointer
+ * @dest: second pointer
+ * Return: returns dest
  */
 char *_strcpy(char *dest, const char *src)
 {

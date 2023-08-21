@@ -1,12 +1,11 @@
 #include "main.h"
-/
+
 /**
  * puts2 - the main function
  * @str: the pointer
  */
 void puts2(char *str)
 {
-	
 	int index = 0, len = 0;
 
 	while (str[index++])

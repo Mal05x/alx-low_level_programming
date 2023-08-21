@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * void _strlen - the main function
- * @str: the pointer
+ * _strlen - the main function
+ * @s: the pointer
  * Return: returns i
  */
 int _strlen(char *s)
