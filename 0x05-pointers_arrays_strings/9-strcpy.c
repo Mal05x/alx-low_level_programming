@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *_strcpy - the main function
+ * _strcpy - the main function
  * @src: the pointer
  * @dest: second pointer
  * Return: returns dest
