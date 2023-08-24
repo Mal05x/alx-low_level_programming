@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcat - the main function
+ * strcat - the main function
  * @dest: the pointer value
  * @src: the string
  * Return: returns dest
