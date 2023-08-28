@@ -2,6 +2,7 @@
 
 /**
  * _abs - the main function
+ * @i: this is the number
  * Return: always returns the absolute value of i
  */
 int _abs(int i)

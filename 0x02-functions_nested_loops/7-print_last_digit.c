@@ -2,6 +2,7 @@
 
 /**
  * print_last_digit - the main function
+ * @i: this is the number
  * Return: returns i
  */
 int print_last_digit(int i)
