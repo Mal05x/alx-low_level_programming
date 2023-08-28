@@ -1,9 +1,9 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
  * print_alphabet_x10 - prints the alphabet 10x
  */
-void print_alphabet_x10(void)
+int main()
 {
 	int i;
 	char j;
@@ -12,8 +12,9 @@ void print_alphabet_x10(void)
 	{
 		for (j = 'a'; j <= 'z'; j++)
 		{
-			_putchar(j);
+			printf("%c", j);
 		}
-		_putchar('\n');
+		printf("\n");
 	}
+	return (0);
 }
